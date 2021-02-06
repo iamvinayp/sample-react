@@ -1,0 +1,18 @@
+.song {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.song-title {
+  margin-right: 50px;
+}
+
+.select-button {
+  height: 15px;
+  width: 60px;
+  background-color: blueviolet;
+  padding: 0 0 5px 0;
+  text-align: center;
+  cursor: pointer;
+}
